@@ -1,4 +1,4 @@
-test
+
 # Инструкция для работы с Git и удалёнными репозиториями
 ![pam pam](gitSomaliProgrammers.jpg)
 ## Что такое Git?
